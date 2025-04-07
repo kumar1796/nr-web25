@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "this is namaste react revision project",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dino": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
